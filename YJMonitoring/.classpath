@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/YJMonitoring/libs/httpclient-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/YJMonitoring/libs/httpcore-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/YJMonitoring/libs/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/YJMonitoring/libs/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/YJMonitoring/libs/commons-email-1.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/YJMonitoring/libs/java-mail-1.4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
